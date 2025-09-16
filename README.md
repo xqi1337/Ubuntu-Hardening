@@ -1,4 +1,4 @@
-# Linux System Hardening Guide
+# Ubuntu Linux System Hardening Guide
 
 ## Table of Contents
 
